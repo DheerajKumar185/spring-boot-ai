@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: spring-boot-ai-ollama
+  ai:
+    ollama:
+      base-url: http://localhost:11434
+      model: mistral
